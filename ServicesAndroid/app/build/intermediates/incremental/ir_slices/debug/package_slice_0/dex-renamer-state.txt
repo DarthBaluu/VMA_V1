@@ -1,0 +1,4 @@
+#Wed Apr 18 12:09:30 CEST 2018
+base.0=C\:\\Users\\Dustin\\Documents\\NetBeansProjects\\VMA_V1\\ServicesAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

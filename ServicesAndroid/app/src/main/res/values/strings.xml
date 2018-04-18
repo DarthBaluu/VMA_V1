@@ -3,5 +3,6 @@
     <string name="app_name">Services</string>
     <string name="activity_title">Services - VM TH Köln</string>
     <string name="plus">+</string>
-    <string name="equals">=</string>
+    <string name="mult">*</string>
+    <string name="between">and</string>
 </resources>

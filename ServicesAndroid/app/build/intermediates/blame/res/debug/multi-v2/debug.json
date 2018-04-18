@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dustin\\Documents\\NetBeansProjects\\VMA_V1\\ServicesAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dustin\\Documents\\NetBeansProjects\\VMA_V1\\ServicesAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,6,5,-1",
+                        "startColumns": "-1,-1,4,4,-1",
+                        "startOffsets": "-1,-1,242,206,-1",
+                        "endColumns": "-1,-1,39,34,-1",
+                        "endOffsets": "-1,-1,277,236,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,120,166,206,241",
+                        "endColumns": "64,45,39,34,34",
+                        "endOffsets": "115,161,201,236,271"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dustin\\Documents\\NetBeansProjects\\VMA_V1\\ServicesAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "276,364",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "359,431"
+                    }
+                }
+            ]
+        }
+    ]
+}
