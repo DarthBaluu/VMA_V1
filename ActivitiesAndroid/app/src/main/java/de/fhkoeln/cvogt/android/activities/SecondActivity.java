@@ -27,9 +27,11 @@ public class SecondActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
         
-        final Button switchButton = (Button) findViewById(R.id.switchActivity);
+        final Button switchButton2_1 = (Button) findViewById(R.id.switchActivity2_1);
+        final Button switchButton2_3 = (Button) findViewById(R.id.switchActivity2_3);
 
-        switchButton.setOnClickListener(new SwitchButtonListener2());
+        switchButton2_1.setOnClickListener(new SwitchButtonListener2_1());
+        switchButton2_3.setOnClickListener(new SwitchButtonListener2_3());
 
         Toast.makeText(this,"Activity 2: onCreate()", Toast.LENGTH_LONG).show();
         
@@ -64,12 +66,28 @@ public class SecondActivity extends Activity {
 
 }
 
-class SwitchButtonListener2 implements OnClickListener  {   // Listener des Buttons
-        
+class SwitchButtonListener2_1 implements OnClickListener  {   // Listener des Buttons
+
         public void onClick(View v) {
         Log.v("DEMO","      ---> Activity2: Click on Button <--- ");
         Intent myIntent = new Intent(v.getContext(),MainActivity.class); // Durch Übergabe dieses Intent-Objekts an startActivity():
+
+        myIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+
         v.getContext().startActivity(myIntent);                          // Erzeugung und Aktivierung einer neuen Instanz der Klasse MainActivity
         }
-        
+
+}
+
+class SwitchButtonListener2_3 implements OnClickListener  {   // Listener des Buttons
+
+    public void onClick(View v) {
+        Log.v("DEMO","      ---> Activity2: Click on Button <--- ");
+        Intent myIntent = new Intent(v.getContext(),ThirdActivity.class); // Durch Übergabe dieses Intent-Objekts an startActivity():
+
+        myIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+
+        v.getContext().startActivity(myIntent);                          // Erzeugung und Aktivierung einer neuen Instanz der Klasse MainActivity
+    }
+
 }

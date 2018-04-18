@@ -3,7 +3,13 @@
     <string name="app_name">Activities</string>
     <string name="activity1_title">Activity 1 - VMA TH Köln</string>
     <string name="activity2_title">Activity 2 - VMA TH Köln</string>
+    <string name="activity3_title">Activity 3 - VMA TH Köln</string>
     <string name="Activity1">--- This is Activity 1 ---</string>
     <string name="Activity2">--- This is Activity 2 ---</string>
-    <string name="Switch">Switch Activities</string>
+    <string name="Activity3">--- This is Activity 3 ---</string>
+    <string name="Switch1">Switch to 1</string>
+    <string name="Switch2">Switch to 2</string>
+    <string name="Switch3">Switch to 3</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
