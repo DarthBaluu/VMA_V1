@@ -21,18 +21,19 @@ public class MainActivity extends Activity {
      private LocalAddService.LocalAddServiceBinder myBinder;  // Binder des Service
      private LocalMultService.LocalMultServiceBinder myBinder2;  // Binder des Service
      private ConnectionToAddService myConn;  // Überwacher der Verbindung zum Service
-    private ConnectionToMultService myConn2;  // Überwacher der Verbindung zum Service
+     private ConnectionToMultService myConn2;  // Überwacher der Verbindung zum Service
 
      public void onCreate(Bundle savedInstanceState) {
              super.onCreate(savedInstanceState);
              Log.v("DEMO","Thread der Activity: "+Thread.currentThread().getId());
              setContentView(R.layout.activity_main);
              setTitle(R.string.activity_title);
+
              Button callServiceButton = (Button) findViewById(R.id.callservice);  // Click auf den Button öffnet Verbindung zum Service und ruft seinen Dienst auf
              callServiceButton.setOnClickListener(new ButtonListener());
 
-            Button callServiceButton2 = (Button) findViewById(R.id.callservice2);  // Click auf den Button öffnet Verbindung zum Service und ruft seinen Dienst auf
-            callServiceButton2.setOnClickListener(new ButtonListener2());
+             Button callServiceButton2 = (Button) findViewById(R.id.callservice2);  // Click auf den Button öffnet Verbindung zum Service und ruft seinen Dienst auf
+             callServiceButton2.setOnClickListener(new ButtonListener2());
      }
 
      public void onPause() {
@@ -110,9 +111,7 @@ public class MainActivity extends Activity {
             // Als Folge des bindService()-Aufrufs wird die callback-Methode myConn.onServiceConnected() (siehe unten) ausgeführt.
             bindService(intent2,myConn2,Context.BIND_AUTO_CREATE);
             Log.v("DEMO","OnClick finished");
-
         }
-
     }
 
     // Ein Objekt der Klasse ConnectionToAddService überwacht eine Verbindung zum Service.

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
@@ -35,8 +36,11 @@
 		android:textSize="12pt" />
 
 	<ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/smiley2"
-        />
+		android:layout_width="304dp"
+		android:layout_height="247dp"
+		android:layout_marginLeft="60dp"
+		android:layout_marginTop="100dp"
+		android:paddingBottom="0dp"
+		android:paddingLeft="0dp"
+		android:src="@drawable/avocado" />
 </LinearLayout>

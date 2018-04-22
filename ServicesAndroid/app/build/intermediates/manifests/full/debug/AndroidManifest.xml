@@ -13,7 +13,6 @@
         android:debuggable="true"
         android:icon="@drawable/icon_thk_android"
         android:label="@string/app_name"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="de.fhkoeln.cvogt.android.services.MainActivity" >
             <intent-filter>
@@ -24,6 +23,8 @@
         </activity>
 
         <service android:name="de.fhkoeln.cvogt.android.services.LocalAddService" >
+        </service>
+        <service android:name="de.fhkoeln.cvogt.android.services.LocalMultService" >
         </service>
     </application>
 

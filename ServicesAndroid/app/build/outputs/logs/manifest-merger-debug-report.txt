@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:3:5-48
 		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml
@@ -36,7 +36,7 @@ INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\
 		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:11:5-28:19
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:11:5-32:19
 	android:label
 		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:14:9-41
 	android:icon
@@ -63,3 +63,7 @@ service#de.fhkoeln.cvogt.android.services.LocalAddService
 ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:25:9-26:19
 	android:name
 		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:25:18-49
+service#de.fhkoeln.cvogt.android.services.LocalMultService
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:29:9-30:19
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ServicesAndroid\app\src\main\AndroidManifest.xml:29:18-50

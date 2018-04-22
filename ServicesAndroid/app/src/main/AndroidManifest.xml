@@ -24,6 +24,10 @@
 
         <service android:name=".LocalAddService" >
         </service>
+
+
+        <service android:name=".LocalMultService" >
+        </service>
         
     </application>
 
