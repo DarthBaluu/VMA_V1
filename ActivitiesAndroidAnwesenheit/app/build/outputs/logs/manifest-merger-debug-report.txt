@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\41acf0854e3bc2efccf1d10f712e542e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cc26f6161ab1f8fe0de94fc2597559cc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\588ff21668b0d24a4eba8edd715a1979\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76a0f57a4a9a81f80fb63884018e8d2b\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\41acf0854e3bc2efccf1d10f712e542e\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\41acf0854e3bc2efccf1d10f712e542e\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cc26f6161ab1f8fe0de94fc2597559cc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cc26f6161ab1f8fe0de94fc2597559cc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\588ff21668b0d24a4eba8edd715a1979\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\588ff21668b0d24a4eba8edd715a1979\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76a0f57a4a9a81f80fb63884018e8d2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76a0f57a4a9a81f80fb63884018e8d2b\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1a4008b4db8622f82422959d3d2c1b59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\41acf0854e3bc2efccf1d10f712e542e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\41acf0854e3bc2efccf1d10f712e542e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cc26f6161ab1f8fe0de94fc2597559cc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\cc26f6161ab1f8fe0de94fc2597559cc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\588ff21668b0d24a4eba8edd715a1979\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\588ff21668b0d24a4eba8edd715a1979\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76a0f57a4a9a81f80fb63884018e8d2b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dustin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76a0f57a4a9a81f80fb63884018e8d2b\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:17:9-50
+	android:allowBackup
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:19:9-40
+activity#de.fhkoeln.cvogt.android.activities.MainActivity
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:24:27-74
+activity#de.fhkoeln.cvogt.android.activities.SecondActivity
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:27:9-29:55
+	android:label
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:28:13-43
+activity#de.fhkoeln.cvogt.android.activities.ThirdActivity
+ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:30:9-32:60
+	android:label
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:32:13-57
+	android:name
+		ADDED from C:\Users\Dustin\Documents\NetBeansProjects\VMA_V1\ActivitiesAndroidAnwesenheit\app\src\main\AndroidManifest.xml:31:13-42
